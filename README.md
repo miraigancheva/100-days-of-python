@@ -8,7 +8,7 @@ This repository contains my solutions, notes, and projects from the course
 ---
 
 ## 📂 Repository Structure
-100-days-of-python/
+``` 100-days-of-python/
 ├─ day001/        # Working with Variables
 ├─ day002/        # Understanding Data Types & String Manipulation
 ├─ day003/        # Control Flow & Logical Operators
@@ -41,7 +41,7 @@ This repository contains my solutions, notes, and projects from the course
 ├─ day030/        # Errors, Exceptions & JSON Data
 ├─ …              # …
 ├─ day100/        # Final Portfolio / Capstone Project
-
+```
 Each `dayXYZ/` folder includes:
 - main.py — project code
 - README.md — short description, goal, and notes
