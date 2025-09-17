@@ -1,5 +1,3 @@
-# Day 001 — Project Title
-
 # Day 001 — Band Name Generator 🎵
 
 ## Goal
