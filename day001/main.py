@@ -1,7 +1,6 @@
 """Day 001 — entrypoint."""
 
-def main():
-    print("Day 001 project is running!")
-
-if __name__ == "__main__":
-    main()
+print("Welcome to the Band Name Generator")
+city = input("What's the name of the city you grew up in?")
+pet = input("What's your pet's name?")
+print("Your band name could be " + city + " " + pet)
